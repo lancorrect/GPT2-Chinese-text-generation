@@ -4,7 +4,7 @@ GPT2 is the first causal model in my study process. With it, I wrote a demo for 
 
 ## File Introduction
 
-In `data_utils.py`, the dataset is processed with muti-threads and is from the education part of [THUCnews] (http://thuctc.thunlp.org/#%E8%8E%B7%E5%8F%96%E9%93%BE%E6%8E%A5)
+In `data_utils.py`, the dataset is processed with muti-threads and is from the education part of [THUCnews](http://thuctc.thunlp.org/#%E8%8E%B7%E5%8F%96%E9%93%BE%E6%8E%A5)
 
  `train.py` has codes that how to use gpt2 to train a text generation model without deepspeed.
 
@@ -14,7 +14,7 @@ In `data_utils.py`, the dataset is processed with muti-threads and is from the e
 
 `ds_config.json` is a file that contains configuration of deepspeed.
 
-`generate.py` is a file to test the generation result and it is refered to this [repo] (https://github.com/Morizeyao/GPT2-Chinese/tree/old_gpt_2_chinese_before_2021_4_22) 
+`generate.py` is a file to test the generation result and it is refered to this [repo](https://github.com/Morizeyao/GPT2-Chinese/tree/old_gpt_2_chinese_before_2021_4_22) 
 
 ## How to use
 
@@ -28,8 +28,8 @@ In `data_utils.py`, the dataset is processed with muti-threads and is from the e
 
 with deepspeed: 
 
-! [with deepspeed] (./with deepspeed.jpeg)
+![with deepspeed](./with deepspeed.jpeg)
 
 without deepspeed:
 
-! [without deepspeed] (./without deepspeed.jpeg)
+![without deepspeed](./without deepspeed.jpeg)
