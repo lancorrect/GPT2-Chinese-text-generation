@@ -28,8 +28,8 @@ In `data_utils.py`, the dataset is processed with muti-threads and is from the e
 
 with deepspeed: 
 
-![with deepspeed](with deepspeed.jpeg)
+![with deepspeed](https://github.com/lancorrect/GPT2-Chinese-text-generation/blob/main/with%20deepspeed.jpeg)
 
 without deepspeed:
 
-![without deepspeed](without deepspeed.jpeg)
+![without deepspeed](https://github.com/lancorrect/GPT2-Chinese-text-generation/blob/main/without%20deepspeed.jpeg)
