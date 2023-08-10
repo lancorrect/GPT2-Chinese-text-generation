@@ -33,3 +33,9 @@ with deepspeed:
 without deepspeed:
 
 ![without deepspeed](https://github.com/lancorrect/GPT2-Chinese-text-generation/blob/main/without%20deepspeed.jpeg)
+
+## Contact
+
+Please feel free to contact me. It's my honor to make progress with you.
+
+Email address: zhihaolancorrect@gmail.com
