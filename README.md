@@ -28,8 +28,8 @@ In `data_utils.py`, the dataset is processed with muti-threads and is from the e
 
 with deepspeed: 
 
-![with deepspeed](./with deepspeed.jpeg)
+![with deepspeed](with deepspeed.jpeg)
 
 without deepspeed:
 
-![without deepspeed](./without deepspeed.jpeg)
+![without deepspeed](without deepspeed.jpeg)
